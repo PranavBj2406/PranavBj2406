@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Pranav BJ, aka Code Rookie — a driven Computer Science undergrad passionate about building scalable full-stack and AI-driven applications. I thrive on transforming ideas into real-world tech solutions and constantly exploring the latest in Web 3.0 and cloud ecosystems.<br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj90@gmail.com or www.linkedin.com/in/pranav-bj-545a1b260
+# 🫡 Hello Universe I am Pranav BJ aka CODE_ROOKIE 🤖
+<br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj90@gmail.com or www.linkedin.com/in/pranav-bj-545a1b260
 
 
 # 💻 Tech Stack:
