@@ -1,4 +1,4 @@
-# 🫡 Hello Universe I am Pranav BJ aka CODE_ROOKIE 🤖
+# ☄️ Hello world CODE ROOKIE here
 <br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj90@gmail.com or www.linkedin.com/in/pranav-bj-545a1b260
 
 
