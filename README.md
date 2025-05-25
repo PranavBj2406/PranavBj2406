@@ -1,6 +1,6 @@
 # ☄️ Hello world CODE_ROOKIE reporting 
 
-![Code Rookie](https://collection.cloudinary.com/dntoevkln/36d5c8828dc082ef8029d5a8aeb0a324)
+![Code Rookie]([https://collection.cloudinary.com/dntoevkln/36d5c8828dc082ef8029d5a8aeb0a324](https://res.cloudinary.com/dntoevkln/image/upload/v1748178296/h6ujnruju2kew9tx2tfh.gif))
 
 
 
