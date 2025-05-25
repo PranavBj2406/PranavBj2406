@@ -1,7 +1,7 @@
 # ☄️ Hello world CODE_ROOKIE reporting 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1748178296/h6ujnruju2kew9tx2tfh.gif" 
+  <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1748181514/undmqqyk6lxjddebutho.gif" 
        style="width: 100%; height: auto;" 
        alt="Code Rookie GIF" />
 </p>
