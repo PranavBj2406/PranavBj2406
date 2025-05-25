@@ -1,6 +1,9 @@
 # ☄️ Hello world CODE_ROOKIE reporting 
 
-![Code Rookie](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
+<p align="center">
+  <img src="./assets/mygif.gif" style="width: 100%; height: 200px; object-fit: cover;" alt="Code Rookie GIF" />
+</p>
+
 
 
 <br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj90@gmail.com or www.linkedin.com/in/pranav-bj-545a1b260
