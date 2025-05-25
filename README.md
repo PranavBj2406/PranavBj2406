@@ -1,9 +1,10 @@
 # ☄️ Hello world CODE_ROOKIE reporting 
 
-![Code Rookie]([https://collection.cloudinary.com/dntoevkln/36d5c8828dc082ef8029d5a8aeb0a324](https://res.cloudinary.com/dntoevkln/image/upload/v1748178296/h6ujnruju2kew9tx2tfh.gif))
-
-
-
+<p align="center">
+  <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1748178296/h6ujnruju2kew9tx2tfh.gif" 
+       style="width: 100%; height: 200px; object-fit: cover;" 
+       alt="Code Rookie GIF" />
+</p>
 
 <br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj90@gmail.com or www.linkedin.com/in/pranav-bj-545a1b260
 
