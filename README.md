@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1748178296/h6ujnruju2kew9tx2tfh.gif" 
-       style="width: 100%; height: 200px; object-fit: cover;" 
+       style="width: 100%; height: auto;" 
        alt="Code Rookie GIF" />
 </p>
 
