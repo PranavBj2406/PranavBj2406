@@ -1,6 +1,6 @@
 # ☄️ Hello World
 <p align="center">
-  <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1748181514/undmqqyk6lxjddebutho.gif" 
+  <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1748286653/x9s9lu7orkudrcsseslk.gif" 
        style="width: 100%; height: auto;" 
        alt="Code Rookie GIF" />
 </p>
