@@ -3,6 +3,7 @@
        style="width: 100%; height: auto;" 
        alt="Code Rookie GIF" />
 </p>
+
 #                                                                     ☄️ Hi CODE_ROOKIE HERE ☄️
 
 <br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj80@gmail.com or www.linkedin.com/in/pranav-bj-545a1b260
