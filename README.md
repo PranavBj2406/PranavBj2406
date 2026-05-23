@@ -7,7 +7,7 @@
 <h1 align="center">⚜️ HI CODE_FORGE HERE ⚜️</h1>
 
 <p align="center">🔨 From learning to building, From Code_rookie to Code_Forge — evolving one commit at a time.</p>
- <p>🌐 <a href="https://pranavbj2406.github.io/Portfolio/">Porfolio</a></p>
+ <p align="center">🌐 <a href="https://pranavbj2406.github.io/Portfolio/">Porfolio</a></p>
 ---
 
 🔧 Forging production-grade backend systems and AI-driven data pipelines.
