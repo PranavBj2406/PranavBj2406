@@ -4,10 +4,10 @@
        alt="Code Rookie GIF" />
 </p>
 
-<h1 align="center">CODE_FORGE</h1>
+<h1 align="center">⚜️ HI CODE_FORGE HERE ⚜️</h1>
 
-<p align="center">🔨 From learning to building — evolving one commit at a time.</p>
-
+<p align="center">🔨 From learning to building, From Code_rookie to Code_Forge — evolving one commit at a time.</p>
+ <p>🌐 <a href="https://pranavbj2406.github.io/Portfolio/">Porfolio</a></p>
 ---
 
 🔧 Forging production-grade backend systems and AI-driven data pipelines.
@@ -25,6 +25,7 @@
 🔄 Every repo here started with a real problem, not a tutorial.
 🤝 Good code is code the next developer doesn't hate. Clean commits, clear docs, zero excuses.
 📫 pranavbj80@gmail.com | linkedin.com/in/pranav-bj
+
 
 
 # 💻 Tech Stack:
