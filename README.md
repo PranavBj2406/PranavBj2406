@@ -12,10 +12,15 @@
 🔧 Forging production-grade backend systems and AI-driven data pipelines.
  
 🏆 Smart India Hackathon 2024 Finalist | 270+ DSA problems solved
+
 🔥 I don't just write code — I forge systems that survive production.
+
 ⏱️ Built a 24-hour hackathon platform under deadline pressure — taught me that shipping beats perfect.
+
 🔄 Every repo here started with a real problem, not a tutorial.
+
 🤝 Good code is code the next developer doesn't hate. Clean commits, clear docs, zero excuses.
+
 📫 pranavbj80@gmail.com | linkedin.com/in/pranav-bj | [Portfolio](https://pranavbj2406.github.io/Portfolio/)
 
 
