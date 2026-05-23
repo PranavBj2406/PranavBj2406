@@ -3,7 +3,6 @@
        style="width: 100%; height: auto;" 
        alt="Code Rookie GIF" />
 </p>
----
 
 <h1 align="center">⚜️ HI CODE_FORGE HERE ⚜️</h1>
 <p align="center">🔨 From learning to building, From Code_rookie to Code_Forge — evolving one commit at a time.</p>
