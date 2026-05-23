@@ -4,9 +4,27 @@
        alt="Code Rookie GIF" />
 </p>
 
-#                                                                     ☄️ Hi CODE_ROOKIE HERE ☄️
+<h1 align="center">CODE_FORGE</h1>
 
-<br>🔧 Building full-stack and AI projects to solve real-world problems.<br>📚 Learning: Cloud Computing, Advanced DSA (C++)<br>💻 Skilled in: React, Node.js, MongoDB, Supabase ,Flask , Tailwind CSS<br>🎯 Aspiring SDE | Hackathon Enthusiast | Problem Solver<br>📫 Reach me on LinkedIn or via email at pranavbj80@gmail.com or www.linkedin.com/in/pranav-bj
+<p align="center">🔨 From learning to building — evolving one commit at a time.</p>
+
+---
+
+🔧 Forging production-grade backend systems and AI-driven data pipelines.
+
+💻 **Backend:** Java, Spring Boot, Python, FastAPI, Flask | **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS | **Databases:** PostgreSQL, MongoDB, Redis | **DevOps:** Docker, AWS EC2, Apache Airflow, CI/CD
+
+🚀 **Featured Projects:**
+- Multi-currency banking REST API — live FX conversion, JWT auth, 85%+ test coverage, deployed on AWS EC2
+- AI Stock ETL Pipeline — 50K+ records/day, LangChain anomaly detection, Dockerized Airflow
+- Synthesis.AI — GAN-powered synthetic data generation, dual-service Flask/FastAPI backend
+- 
+🏆 Smart India Hackathon 2024 Finalist | 270+ DSA problems solved
+🔥 I don't just write code — I forge systems that survive production.
+⏱️ Built a 24-hour hackathon platform under deadline pressure — taught me that shipping beats perfect.
+🔄 Every repo here started with a real problem, not a tutorial.
+🤝 Good code is code the next developer doesn't hate. Clean commits, clear docs, zero excuses.
+📫 pranavbj80@gmail.com | linkedin.com/in/pranav-bj
 
 
 # 💻 Tech Stack:
