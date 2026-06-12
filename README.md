@@ -1,15 +1,4 @@
-<p align="center">
-  <img
-    src="https://res.cloudinary.com/dntoevkln/image/upload/v1781288860/plyptvonyqyd7vclgpmg.gif"
-    style="
-      width: 100%;
-      height: 300px;
-      object-fit: cover;
-      object-position: bottom;
-    "
-    alt="Code Rookie GIF"
-  />
-</p>
+<p align="center"> <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1781289372/esoikwtqemivbururvf4.gif" style="width: 100%; height: 50%;" alt="Code Rookie GIF" /> </p>
 
 <h1 align="center">⚜️ HI CODE_FORGE HERE ⚜️</h1>
 <p align="center">🔨 From learning to building, From Code_rookie to Code_Forge — evolving one commit at a time.</p>
