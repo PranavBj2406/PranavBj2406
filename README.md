@@ -36,11 +36,5 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,vite,tailwind,nodejs,fastapi,spring,mongodb,mysql,postgres,docker,aws,firebase,git,github,figma,linux" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranavBJ2406&show_icons=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBJ2406" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
