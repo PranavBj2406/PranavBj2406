@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://res.cloudinary.com/dntoevkln/image/upload/v1748286653/x9s9lu7orkudrcsseslk.gif](https://res.cloudinary.com/dntoevkln/image/upload/v1748178296/h6ujnruju2kew9tx2tfh.gif)" 
+  <img src="https://res.cloudinary.com/dntoevkln/image/upload/v1781288860/plyptvonyqyd7vclgpmg.gif" 
        style="width: 100%; height: auto;" 
        alt="Code Rookie GIF" />
 </p>
